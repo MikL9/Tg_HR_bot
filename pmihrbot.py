@@ -4,7 +4,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMedia
 from telebot import types
 import mysql.connector
 
-bot_token = '5114314620:AAHL9cGCVcN1b7e9Vsax0hHKJoDN8g6UKZo'
+bot_token = ''
 bot = telebot.TeleBot(bot_token)
 
 user = bot.get_me()
