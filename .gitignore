@@ -1,0 +1,12 @@
+.idea
+*.iml
+/.buildpath
+/.settings
+/.project
+*.log
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/pmihrbot.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/files/bot
